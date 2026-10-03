@@ -1,0 +1,6 @@
+{
+  "name": "Voxxl - Inteligência Artificial",
+  "description": "Voxxl: IA conversacional ultrarrápida, multimodal e inteligente para conversas naturais, código, produtividade e criatividade.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
